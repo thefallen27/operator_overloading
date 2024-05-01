@@ -22,3 +22,6 @@ Time t2: 12:38:44
 Sum of t1 and t2: 4:19:37
 Difference of t1 and t2: 3:2:9
 ```
+
+## License
+This project is licensed under the MIT license.
